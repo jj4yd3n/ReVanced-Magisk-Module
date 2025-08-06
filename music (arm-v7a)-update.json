@@ -1,6 +1,6 @@
 {
-  "version": "v8.29.56 (patches 5.32.0)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/jj4yd3n/ReVanced-Magisk-Module/releases/download/4/music-revanced-magisk-v8.29.56-arm-v7a.zip",
+  "version": "v8.31.51 (patches 5.33.0)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/jj4yd3n/ReVanced-Magisk-Module/releases/download/5/music-revanced-magisk-v8.31.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/jj4yd3n/ReVanced-Magisk-Module/update/build.md"
 }
