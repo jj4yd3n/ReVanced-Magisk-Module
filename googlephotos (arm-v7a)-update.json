@@ -1,6 +1,6 @@
 {
-  "version": "v7.45.0.804174563 (patches 5.37.0)",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/jj4yd3n/ReVanced-Magisk-Module/releases/download/9/googlephotos-revanced-magisk-v7.45.0.804174563-arm-v7a.zip",
+  "version": "v7.45.0.804174563 (patches 5.38.0)",
+  "versionCode": 10,
+  "zipUrl": "https://github.com/jj4yd3n/ReVanced-Magisk-Module/releases/download/10/googlephotos-revanced-magisk-v7.45.0.804174563-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/jj4yd3n/ReVanced-Magisk-Module/update/build.md"
 }
